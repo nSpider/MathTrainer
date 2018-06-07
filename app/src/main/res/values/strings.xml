@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MathTrainer</string>
+    <string name="rule">You will get 30 seconds and 3 lives to play the QUIZ\nFor each correct answer you will get extra 2sec\nFor each wrong answer you will lose 1 life</string>
+</resources>
